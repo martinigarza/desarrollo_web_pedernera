@@ -116,7 +116,6 @@ ANFA Electricidad ha estado experimentando un estancamiento en sus ventas y un a
 - CantidadReservada
 - ÚltimaActualización
 
-
 ## Relaciones
 
 - **Cliente** 1 ---- N **Pedido**  
