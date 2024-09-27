@@ -162,7 +162,7 @@ ANFA Electricidad ha estado experimentando un estancamiento en sus ventas y un a
 - Cantidad_producto
 - ÚltimaActualización
 
-5 Casos de uso para Diagrama de entidades (al menos 4 entidades) en markdown de la propuesta solicitada anteriormente
+
 # Casos de Uso
 
 ## Caso de Uso 1: Registro de Cliente
@@ -214,4 +214,7 @@ ANFA Electricidad ha estado experimentando un estancamiento en sus ventas y un a
   2. El administrador selecciona un producto para editar.
   3. El administrador actualiza la información (nombre, descripción, precio, etc.).
   4. El sistema guarda los cambios en la entidad **Producto** y refleja la actualización en el catálogo.
+
+
+## Los diagramas de caso de uso se encuentran dentro del pdf, los cuales fueron diagramados con la herramienta Star UML.
 
