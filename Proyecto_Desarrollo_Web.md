@@ -129,6 +129,39 @@ ANFA Electricidad ha estado experimentando un estancamiento en sus ventas y un a
 
 ![Diagrama_de_tablas]("https://raw.githubusercontent.com/martinigarza/desarrollo_web_pedernera/refs/heads/master/diagrama_de_tablas.jpg")
 
+# Diagrama de Clases
+
+## Clases
+
+### Cliente
+**id_cliente** 
+- Nombre_cliente
+- Email_cliente
+- Teléfono_cliente
+- Dirección_cliente
+- FechaRegistro
+
+### Pedido
+- **id_pedido** 
+- Fecha_Pedido
+- Total_pedido
+- Estado_pedido
+
+### Producto
+- **id_producto** 
+- Nombre_producto
+- Descripción_producto
+- Precio_producto
+- Categoría_producto
+- FechaRegistro
+
+### Inventario
+- **id_inventario** 
+- id_producto 
+- descripcion_producto
+- Cantidad_producto
+- ÚltimaActualización
+
 5 Casos de uso para Diagrama de entidades (al menos 4 entidades) en markdown de la propuesta solicitada anteriormente
 # Casos de Uso
 
