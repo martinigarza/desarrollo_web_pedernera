@@ -116,7 +116,6 @@ ANFA Electricidad ha estado experimentando un estancamiento en sus ventas y un a
 - CantidadReservada
 - ÚltimaActualización
 
-
 ## Relaciones
 
 - **Cliente** 1 ---- N **Pedido**  
@@ -127,7 +126,8 @@ ANFA Electricidad ha estado experimentando un estancamiento en sus ventas y un a
 
 - **Producto** 1 ---- 1 **Inventario**  
   (Cada producto tiene un registro en inventario para su gestión.)
- 
+
+![Diagrama_de_tablas]("https://raw.githubusercontent.com/martinigarza/desarrollo_web_pedernera/refs/heads/master/diagrama_de_tablas.jpg")
 
 5 Casos de uso para Diagrama de entidades (al menos 4 entidades) en markdown de la propuesta solicitada anteriormente
 # Casos de Uso
